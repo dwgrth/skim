@@ -31,3 +31,6 @@ flamegraph.svg
 cachegrind.out.*
 
 /scripts/data/
+
+# Vagrant
+.vagrant/
